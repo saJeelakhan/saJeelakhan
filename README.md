@@ -10,6 +10,7 @@ Learner
     <ul>
       <li><a href="https://github.com/saJeelakhan/CodeAlpha_Titanic_Classification_Model.git" style="font-family: Arial, sans-serif;">Titanic Prediction Model</a></li>
       <li><a href="https://github.com/saJeelakhan/CodeAlpha_Data_Exploration_Iris_dataset.git" style="font-family: Arial, sans-serif;">Iris Data Exploration (EDA)</a></li>
+      <li><a href="https://github.com/saJeelakhan/CodeAlpha_Predictive_Modeling_with_Linear_Regression.git" style="font-family: Arial, sans-serif;">Predictive Modeling</a></li>
     </ul>
   </li>
   
